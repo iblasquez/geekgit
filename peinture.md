@@ -1,10 +1,6 @@
 # Peinture & Développement logiciel
 
 
-> [**Code poetry** is literature that intermixes notions of classical poetry and computer code.
-(extrait Wikipedia)](https://en.wikipedia.org/wiki/Code_poetry https://en.wikipedia.org/wiki/Code_poetry)
-
-
 ## Classic Programmer Paintings
 
 
